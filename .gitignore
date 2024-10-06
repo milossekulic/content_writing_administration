@@ -1,0 +1,8 @@
+/venv
+/stored_html
+/stored_images
+/.env
+/alembic/versions/__pycache__
+/alembic/__pycache__
+/app/__pycache__
+/app/routers/__pycache__
