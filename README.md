@@ -1,3 +1,15 @@
+Project description:
+A content management system (CMS) designed for creating, managing, and publishing blog pages with a multi-role approval workflow. Key features include:
+
+	•	HTML & Image Storage: Save and display HTML-based blog content and images.
+	•	Approval Workflow: Writers submit content to group leaders, who approve or reject submissions. Admins provide final approval before publishing.
+	•	Role-Based Access: Support for multiple roles (Writers, Leaders, Admins) with distinct responsibilities.
+	•	Group Management: Users can be organized into groups, each with a leader responsible for content approval within the group.
+	•	Content List: View and manage a list of all created HTML pages.
+
+Perfect for teams that need structured content approval processes before publishing posts.
+
+
 # Configuration for local development
 1. create virtual environment
 python3 -m venv venv
